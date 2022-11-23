@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Coradesque
-- 👀 I’m interested in learn how to code apps and games.
-- 🌱 I’m currently learning fullstack development with javascript
-- 💞️ I’m looking to collaborate on small projects 
+- 👋 Hi, I’m Felipe Coradesque
+- 👀 I’m interested GIS aplications and Remote Sensing
+- 🌱 I’m currently learning fullstack development with javascript and Web GIS development
+- 💞️ I’m looking to collaborate on GIS projects 
 - 📫 How to reach me: coradesque@gmail.com
 
 <!---
